@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "title": "TreyVisai",
+    "home": "Home",
+    "about": "About",
+    "feature": "Feature",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Discover.",
+    "title2": "Connect.",
+    "title3": "Grow.",
+    "subtitle": "Cambodia’s trusted marketplace\nfor local businesses and buyers.\nTrey Visai connects verified\nCambodian merchants with customers\nacross the country —\nmaking it easier to find,\ntrust, and support local.",
+    "button": "Learn More"
+  },
+  "about": {
+    "title": "Who We Are",
+    "aboutUs": "Building Cambodia's \nVibrant Business Economy",
+    "description": "Trey Visai is a verified business discovery and membership platform built for Cambodia’s vibrant small business economy.\nWe bridge the gap between local merchants and the customers who are looking for them.",
+    "mission": "Our Mission",
+    "missionDescription": "To empower Cambodian small businesses with visibility, credibility, and community — so every merchant, whether chamber-registered or independent, has a place to be found and trusted."
+  },
+  "feature": {
+    "title": "Powerful Feature For Everyone",
+    "merchant": {
+      "title": "For Merchants",
+      "getListed": "Get listed and verified on a trusted platform",
+      "reachBuyers": "Reach buyers across Cambodia",
+      "showcaseProducts": "Showcase your products, location, and contact information",
+      "buildReputation": "Build your reputation with a recognised member profile"
+    },
+    "buyer": {
+      "title": "For Buyers",
+      "findMerchants": "Discover local businesses quickly and easily",
+      "discoverProducts": "Browse verified merchants you can trust",
+      "supportLocal": "Find businesses by category, location, or name",
+      "shopWithConfidence": "Support Cambodia’s local economy"
+    }
+  },
+  "contact": {
+    "getInTouch": "Get in Touch",
+    "haveQuestions": "Have questions or want to join Trey Visai as a merchant?",
+    "weWouldLoveToHearFromYou": "We’d love to hear from you.",
+    "contactUs": "Contact Us",
+    "email": "lamveng012@gmail.com",
+    "mobile": "081 966 266",
+    "link": "TreyVisai.com"
+  },
+  "footer": {
+    "title": "TreyVisai",
+    "copy": "© 2026 TreyVisai (ត្រីវិស័យ).",
+    "allRightsReserved": "All rights reserved",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  }
+}

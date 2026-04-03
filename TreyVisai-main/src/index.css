@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Koulen", sans-serif;
+  --font-khmer: "Noto Sans Khmer", sans-serif;
+  --font-body: "DM Sans", sans-serif;
+  --color-primary: #0f172a;
+  --color-secondary: #eab308;
+  --color-accent: #eab308;
+}
+
+/* Default — English */
+body {
+  font-family: "DM Sans", sans-serif;
+}
+
+/* When language is Khmer */
+body[lang="km"] {
+  font-family: "Noto Sans Khmer", sans-serif;
+}
